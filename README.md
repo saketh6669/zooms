@@ -28,12 +28,6 @@ Designed and developed a comprehensive application using React.js and MySQL for 
 3. source `zooms.sql` 
 
 
-## Authors
-
-1. Mahammad siraj cheruvu
-2. Appala venkata Avinash
-3. Posam Yeswanth Reddy
-
 
 ## License
 
